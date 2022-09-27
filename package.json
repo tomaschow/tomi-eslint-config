@@ -1,0 +1,56 @@
+{
+  "name": "tomi-eslint-config",
+  "version": "0.1.0",
+  "description": "Fork of handy eslint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dingda Zhou",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaschow/tomi-eslint-config.git"
+  },
+  "keywords": [
+    "javascript",
+    "eslint",
+    "lint",
+    "config",
+    "prettier"
+  ],
+  "peerDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "eslint": "^6 || ^7 || ^8",
+    "eslint-config-airbnb": ">= 17.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jest-dom": "^3.9.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react-hooks": "^4 || ^3 || ^2.3.0 || ^1.6.1",
+    "eslint-plugin-testing-library": "^4.12.1",
+    "prettier-eslint": "^12.0.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb": "^18.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-import-resolver-typescript": "^2.4.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jest-dom": "^3.9.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-testing-library": "^4.12.1",
+    "prettier": "^2.3.2",
+    "prettier-eslint": "^12.0.0",
+    "typescript": "^4.3.5"
+  }
+}
