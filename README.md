@@ -6,7 +6,7 @@ A custom eslint + prettier config for all React projects.
 ### Installation
 
 ```bash
-npm install @vp/eslint-config-om-react --save-dev
+npm install tomi-eslint-config --save-dev
 ```
 
 ### Usage

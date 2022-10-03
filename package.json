@@ -1,12 +1,12 @@
 {
   "name": "tomi-eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fork of handy eslint config.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dingda Zhou",
+  "author": "Tomi Z",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   ],
   "peerDependencies": {
     "@babel/eslint-parser": "^7.17.0",
-    "eslint": "^6 || ^7 || ^8",
+    "eslint": "^7.30.0",
     "eslint-config-airbnb": ">= 17.1.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-html": "^6.1.2",
